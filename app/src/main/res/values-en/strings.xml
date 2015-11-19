@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">El Parche! App (V 1.0)</string>
+
+    <string name="bt_cine">Movies</string>
+    <string name="bt_restaurante">Restaurants</string>
+    <string name="bt_teatro">Theatres</string>
+    <string name="bt_disco">Clubs</string>
+    <string name="bt_ambientes">Tourist Sites</string>
+
+    <string name="mapa">GEOLOCATION</string>
+    <string name="cine">MOVIES</string>
+    <string name="restaurante">RESTAURANTS</string>
+    <string name="teatro">THEATRES</string>
+    <string name="disco">CLUBS</string>
+    <string name="ambientes">TOURIST SITES</string>
+
+    <string name="teatro_pablo">Cultural heart of Medellin. It is a space always opened to enjoy the brilliance of the different artistic manifestations. The dance. The theatre. The music and the poetry have in this scene.\n\n Address:	Cr.40#51–24
+                                \n\nPhone:[+574]2397500 \n\nSchedule of Attention:	Monday to Saturday of 10 a.m. to 1 p.m. and 2 p.m. to 6 p.m.</string>
+
+    <string name="teatro_metro">The principal activity of Cultural Medellin consists of the organization and presentation of public spectacles that spread the different artistic manifestations: classic and popular Music, classic ballet, contemporary dance and folclórica.\n\nAddress: Cl. 41#57-30 \n\nPhone:[+574]2324597\n\nSchedule of Attention: Monday to Friday
+8:00 a.m. a 12:00 m. and 2:00 p.m. a 6:00 p.m.</string>
+
+    <string name="teatro_aguila">The headquarters of the Eagle Take off in the traditional neighborhood Meadow of Medellin, are a beautiful mansion, which for your architectural value and permanent programming, has turned into urban, cultural and tourist modal of obligatory visit for inhabitants and visitors of the city. \n\nAddress:Cr. 45D#59–01\n\nPhone:[+574]284 4211\n\nSchedule of Attention: 11:00 a.m. - 18:00 p.m of Monday to Saturday. </string>
+
+    <string name="cine_colo">TICKET PRICE\n\n
+        Monday............$6,000
+    \nTuesday............$5,000
+    \nWednesday.......$5,000
+    \nThursday...........$8,000
+    \nFriday................$9,000
+    \nSaturday............$11,000
+    \nSunday..............$11,000\n\nAddress:Cl. 71 #65-150</string>
+
+
+
+    <string name="cine_royal">TICKET PRICE\n\n
+     Monday............$6,000
+    \nTuesday............$3,000
+    \nWednesday.......$3,000
+    \nThursday...........$6,000
+    \nFriday................$7,000
+    \nSaturday............$7,000
+    \nSunday..............$7,000\n\nAddress:Cl. 71 #65-150</string>
+
+     <string name="cine_proc">TICKET PRICE\n\n
+  Monday............$5,000
+\nTuesday............$2,500
+\nWednesday.......$2,500
+\nThursday...........$5,000
+\nFriday................$6,000
+\nSaturday............$6,000
+\nSunday..............$6,000\n\nAddress:Cl. 71 #65-150</string>
+
+    <string name="restaurante_provincia">Restaurant LA PROVINCIA\n\n
+Romantic, special Occasions, business Meetings.\n\nAddress:Calle 4surN43A-179\n\nPhone:[+574]3119630\n\nSchedule of Attention: Monday to Saturday 11:00-22:00 </string>
+    <string name="restaurante_Corral">Address:Cl.73#51-71\n\nPhone:[+574]5555555\n\nSchedule of Attention: Monday to Sunday 11:00-22:00 </string>
+    <string name="restaurante_tacuate">Restaurant TACUATE\n\n
+For the lovers of the Mexican food, to pass a different moment is possible in Tacuate Restaurante Bar that besides your environment possesses a daily special menu different options to choose between income, strong plate, drinks and desserts.\n\nAddress:Transversal 39 N°76-52\n\nPhone:[+574]999\n\nSchedule of Attention: Tuesday to Sunday 10:00-23:00 </string>
+
+    <string name="bar_chavo">Address: Av.33#65C-60\n\nPhone:[+574]333333</string>
+    <string name="bar_pico">Address:Cra.70#45-77\n\nPhone:[+574]4115562</string>
+    <string name="bar_barlovento">Address:Cra.42 #9-59\n\nPhone:[+574]1111111</string>
+
+    <string name="lugar_pueblito">It is the reply of a typical village Antioqueño and settles on the top of the Hill Nutibara. The contour of your small square makes up with the traditional constructions of any settlement as the church and the mayoralty.\n\nAddress: Cl.30A#55-64\n\nPhone:[+574]260 24 16</string>
+    <string name="lugar_unidad">Atanasio Girardot is the most modern Sports Unit of the country, complete and functional of South America, which integrates in one only place the practice of 37 sports disciplines in 20 stages of high quality. There there converge the federations, leagues and the most representative sports clubs of the department of Antioch.\n\nAddress:Calle 48 No. 73–10</string>
+    <string name="lugar_botero">The hand, Horse with bridles, Woman with fruit, Eve, Woman with mirror, Man astride and Maternity they are the names of some of 23 sculptures donated by the teacher Fernando Botero, which together with both sources of water of the Plaza designed by the own artist, besides the varied arborización and works of urbanism, give life to 7.500 m ² that Boatman occupies the Plaza.\n\nAddress:Cr. 52 with Cl. 52</string>
+
+
+
+
+</resources>

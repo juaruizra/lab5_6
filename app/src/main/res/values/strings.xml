@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">El Parche! App (V 1.0)</string>
+
+    <string name="bt_cine">Cines</string>
+    <string name="bt_restaurante">Restaurantes</string>
+    <string name="bt_teatro">Teatros</string>
+    <string name="bt_disco">Discotecas</string>
+    <string name="bt_ambientes">Sitios Turisticos</string>
+
+    <string name="mapa">GEOLOCALIZACION</string>
+    <string name="cine">CINES</string>
+    <string name="restaurante">RESTAURANTES</string>
+    <string name="teatro">TEATROS</string>
+    <string name="disco">DISCOTECAS</string>
+    <string name="ambientes">SITIOS TURISTICOS</string>
+
+    <string name="teatro_pablo">Corazón Cultural de Medellín . es un espacio siempre abierto para disfrutar del esplendor de las diferentes manifestaciones artísticas. La danza. el teatro. la música y la lírica tienen en este escenario.\n\n Direccion:	Carrera 40#51–24
+                                \n\nTelefono:[+574]2397500 \n\nHorarios:	Lunes a Sabados taquilla de 10 a.m. a 1 p.m. y 2 p.m. a 6 p.m. y Oficinas de 9 a.m. a 6 p.m. </string>
+
+    <string name="teatro_metro">La actividad principal de Medellín Cultural consiste en la organización y presentación de espectáculos públicos que difundan las diferentes manifestaciones artísticas: Música clásica y popular, ballet clásico, danza contemporánea y folclórica.\n\nDirección: Calle 41#57-30 \n\nTelefono:[+574]2324597\n\nHorario: Lunes a viernes
+8:00 a.m. a 12:00 m. y 2:00 p.m. a 6:00 p.m.</string>
+
+     <string name="teatro_aguila">La sede del Águila Descalza en el tradicional barrio Prado de Medellín, es una bella mansión, que por su valor arquitectónico y programación permanente, se ha convertido en referente urbano, cultural y turístico de obligatoria visita para habitantes y visitantes de la ciudad. \n\nDirección:Carrera 45D#59–01\n\nTelefono:[+574]284 4211\n\nHorario de Taquilla: La taquilla abre sus puertas a las 11:00 a. m. de lunes a sábado. </string>
+
+    <string name="cine_colo">PRECIO BOLETERIA\n\n  LUNES............$6,000
+\nMARTES.........$5,000
+\nMIERCOLES....$5,000
+\nJUEVES..........$8,000
+\nVIERNES.........$9,000
+\nSABADOS.......$11,000
+\nDOMINGOS.....$11,000\n\nDirección:Carrera 82 # 30A-24</string>
+    <string name="cine_royal">PRECIO BOLETERIA\n\n
+        LUNES............$6,000
+\nMARTES.........$3,000
+\nMIERCOLES....$3,000
+\nJUEVES..........$6,000
+\nVIERNES.........$7,000
+\nSABADOS.......$7,000
+\nDOMINGOS.....$7,000\n\nDirección:Av.43A con calle 30</string>
+    <string name="cine_proc">PRECIO BOLETERIA\n\n LUNES............$5,000
+\nMARTES.........$2,500
+\nMIERCOLES....$2,500
+\nJUEVES..........$5,000
+\nVIERNES.........$6,000
+\nSABADOS.......$6,000
+\nDOMINGOS.....$6,000\n\nDirección:Cl. 71 #65-150</string>
+
+
+
+    <string name="restaurante_provincia">Restaurante LA PROVINCIA\n\n
+Romántico, Ocasiones especiales, Reuniones de negocios.\n\nDirección:Calle 4surN43A-179\n\nTeléfono:[+574]3119630\n\nHorario de Atención: Lunes-Sabado 11:00-22:00 </string>
+    <string name="restaurante_Corral">Dirección:Cl.73#51-71\n\nTeléfono:[+574]5555555\n\nHorario de Atención: Lunes-Domingo 11:00-22:00 </string>
+    <string name="restaurante_tacuate">Restaurante TACUATE\n\n
+Para los amantes de la comida mexicana, pasar un momento diferente es posible en Tacuate Restaurante Bar que además de su ambiente cuenta con un menú diario especial con distintas opciones para escoger entre entradas, plato fuerte, bebidas y postres. \n\nDirección:Transversal 39 N°76-52\n\nTeléfono:[+574]999\n\nHorario de Atención: Martes-Domingo 10:00-23:00 </string>
+
+    <string name="bar_chavo">Dirección: Av.33#65C-60\n\nTeléfono:[+574]333333</string>
+    <string name="bar_pico">Dirección:Cra.70#45-77\n\nTeléfono:[+574]4115562</string>
+    <string name="bar_barlovento">Dirección:Cra.42 #9-59\n\nTeléfono:[+574]1111111</string>
+
+    <string name="lugar_pueblito">Es la réplica de un pueblo típico Antioqueño y se posa sobre la cima del Cerro Nutibara. El contorno de su pequeña plaza se adorna con las construcciones tradicionales de cualquier poblado como la iglesia y la alcaldía.\n\nDirección: Cl.30A#55-64\n\nTeléfono:[+574]260 24 16</string>
+    <string name="lugar_unidad">Atanasio Girardot es la Unidad Deportiva más moderna del país, completa y funcional de Suramérica, que integra en un sólo lugar  la práctica de 37 disciplinas deportivas en 20 escenarios de alta calidad. Allí convergen las federaciones, ligas y clubes deportivos más representativos del departamento de Antioquia.\n\nDirección:Calle 48 No. 73–10</string>
+    <string name="lugar_botero">La mano, Caballo con bridas, Mujer con fruta, Eva, Mujer con espejo, Hombre a caballo y Maternidad son los nombres de algunas de las 23 esculturas donadas por el maestro Fernando Botero, que junto con las dos fuentes de agua de la Plaza diseñadas por el propio artista, además de la variada arborización y obras de urbanismo, dan vida a los 7.500 m² que ocupa la Plaza Botero. \n\nDirección:Carrera 52 con Calle 52</string>
+
+
+
+</resources>

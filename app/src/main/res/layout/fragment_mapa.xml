@@ -1,0 +1,79 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:layout_margin="10dp"
+>
+
+<!-- TODO: Update blank fragment layout -->
+
+<TextView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/mapa"
+    android:textSize="30dp"
+    android:gravity="center"
+    android:textColor="@color/black"/>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:layout_marginTop="5dp">
+    <CheckBox android:id="@+id/Chkcine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_cine"
+        android:checked="false"
+        android:textStyle="bold"/>
+    <CheckBox android:id="@+id/Chkteatro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_teatro"
+        android:checked="false"
+        android:textStyle="bold"/>
+    <CheckBox android:id="@+id/Chkbares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_disco"
+        android:checked="false"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+        <CheckBox android:id="@+id/Chkrestaurantes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bt_restaurante"
+            android:checked="false"
+            android:textStyle="bold"/>
+        <CheckBox android:id="@+id/Chkambiente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bt_ambientes"
+            android:checked="false"
+            android:textStyle="bold"
+          />
+    </LinearLayout>
+
+
+    <com.google.android.gms.maps.MapView
+        android:layout_marginTop="10dp"
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
+</ScrollView>
